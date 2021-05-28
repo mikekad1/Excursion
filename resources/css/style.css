@@ -1,23 +1,23 @@
 body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-  
+    text-align: center;
+    color: white;
+}
+
 h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
-  }
-  
+}
+
 a {
     color: aquamarine;
     font-size: 16px;
     font-weight: normal;
-  }
-  
-#link-1 {
-    text-align: center;
-  }
+}
 
-
+p {
+    color: gray;
+    font-size: 21px;
+}
